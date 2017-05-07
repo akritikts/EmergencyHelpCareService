@@ -40,12 +40,16 @@
         "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/layout/profile.xml"
     },
     {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/akriti/.android/build-cache/3d1ad97fbec40d3573e8bcf62b4aacaf5a0fb8e4/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
         "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/layout/activity_nav_activity.xml",
         "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/layout/activity_nav_activity.xml"
     },
     {
-        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/akriti/.android/build-cache/3d1ad97fbec40d3573e8bcf62b4aacaf5a0fb8e4/output/res/layout/abc_action_bar_up_container.xml"
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/layout/activity_blood_req.xml",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/layout/activity_blood_req.xml"
     },
     {
         "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
@@ -270,5 +274,9 @@
     {
         "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/layout/activity_maps.xml",
         "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/layout/activity_maps.xml"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/layout/fragment_blood.xml",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/layout/fragment_blood.xml"
     }
 ]

@@ -4,12 +4,12 @@
         "source": "/home/akriti/.android/build-cache/3d1ad97fbec40d3573e8bcf62b4aacaf5a0fb8e4/output/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/home/akriti/.android/build-cache/3d1ad97fbec40d3573e8bcf62b4aacaf5a0fb8e4/output/res/drawable/abc_ic_ab_back_material.xml"
-    },
-    {
         "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
         "source": "/home/akriti/.android/build-cache/3d1ad97fbec40d3573e8bcf62b4aacaf5a0fb8e4/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/akriti/.android/build-cache/3d1ad97fbec40d3573e8bcf62b4aacaf5a0fb8e4/output/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
         "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",

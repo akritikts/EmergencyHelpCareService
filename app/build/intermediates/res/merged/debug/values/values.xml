@@ -687,6 +687,7 @@
         AIzaSyBfW7P5UGr0lL8WxekVmEeiYrCLn635ay4
     </string>
     <string name="google_storage_bucket" translatable="false">emergency-42fa6.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="select_contacts_error">Select at least one contact.</string>

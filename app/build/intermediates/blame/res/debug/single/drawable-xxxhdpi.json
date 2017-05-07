@@ -20,12 +20,20 @@
         "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/drawable-xxxhdpi/logo.png"
     },
     {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/blood.png",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/drawable-xxxhdpi/blood.png"
+    },
+    {
         "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/noimage.png",
         "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/drawable-xxxhdpi/noimage.png"
     },
     {
         "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/edit.png",
         "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/drawable-xxxhdpi/edit.png"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/bloodbk.png",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/drawable-xxxhdpi/bloodbk.png"
     },
     {
         "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/info.png",

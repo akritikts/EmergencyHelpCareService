@@ -99,7 +99,6 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-
         <activity
             android:name=".activity.About"
             android:parentActivityName=".activity.FragmentCallingActivity"
@@ -134,7 +133,7 @@
 
         <service android:name=".service.StartAppService" />
 
-
+        <activity android:name=".activity.BloodReq"></activity>
     </application>
 
 </manifest>

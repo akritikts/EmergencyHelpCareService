@@ -12,24 +12,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/akriti/.android/build-cache/c34bc617a667517fd492d131e1e4349d0e121be8/output/jars/libs/internal_impl-24.1.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
-        <dex dex="/home/akriti/Downloads/Emergency-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_5a348e1103f54dd468f16b8cbfda5c2936b11223/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/akriti/.android/build-cache/549521519c7192c71ea15624c991bdaf5e1bf3f4/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
-        <dex dex="/home/akriti/Downloads/Emergency-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d90eb7f506be771d9be4624b43e7f22e54084384/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -66,15 +48,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/akriti/.android/build-cache/c34bc617a667517fd492d131e1e4349d0e121be8/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="/home/akriti/Downloads/Emergency-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e958efa4bfc2ee7c89e107bf7f053cf15db1f68/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/akriti/.android/build-cache/a217a4302b049b62542755807f21788fd8dbe7db/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -102,33 +75,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/akriti/.android/build-cache/608f385031c2f573fdf6872e6952edf2c27025d0/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
-        <dex dex="/home/akriti/Downloads/Emergency-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_436e4a1010721380715069bd77d412f992ae7f5e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/akriti/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
-        <dex dex="/home/akriti/Downloads/Emergency-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_f57c746153214fb5e61be404b5f2bab8fc93baf3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/akriti/.android/build-cache/5cf08924aeaeece228e113f36604476dba5ce4d2/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
-        <dex dex="/home/akriti/Downloads/Emergency-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0176a55b7df39aad284ae12f485a9a2291152218/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/akriti/Downloads/Emergency-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
@@ -142,8 +88,44 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="1bdf7dc75f4277845280cbdcd7b0b63ff8649da1">
+        sha1="4b0f5594f9efd78dc5d76b378bee304a3feec554">
         <dex dex="/home/akriti/Downloads/Emergency-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4ab636d2615f45ae58e79e367da65a1b32a1f5ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akriti/.android/build-cache/3fbb5fbb4aea7fa603950ba92575bead30dd0d0c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/home/akriti/Downloads/Emergency-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0af8ab7c7cfb7571b42fe89cf648b45030ae2e0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akriti/.android/build-cache/549521519c7192c71ea15624c991bdaf5e1bf3f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/home/akriti/Downloads/Emergency-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d90eb7f506be771d9be4624b43e7f22e54084384/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akriti/.android/build-cache/608f385031c2f573fdf6872e6952edf2c27025d0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="/home/akriti/Downloads/Emergency-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_436e4a1010721380715069bd77d412f992ae7f5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akriti/.android/build-cache/5cf08924aeaeece228e113f36604476dba5ce4d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="/home/akriti/Downloads/Emergency-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0176a55b7df39aad284ae12f485a9a2291152218/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -180,15 +162,6 @@
         revision="25.0.2"
         sha1="0a9cb567dc008f570c28531720168f19148da965">
         <dex dex="/home/akriti/Downloads/Emergency-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta4_cc5bcb7967676dc3b7d7a57a47dbded76fa5a274/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/akriti/.android/build-cache/3fbb5fbb4aea7fa603950ba92575bead30dd0d0c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
-        <dex dex="/home/akriti/Downloads/Emergency-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0af8ab7c7cfb7571b42fe89cf648b45030ae2e0d/classes.dex" />
     </item>
     <item
         is-multidex="true"

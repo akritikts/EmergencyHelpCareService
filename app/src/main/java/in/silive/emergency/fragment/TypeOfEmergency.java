@@ -24,6 +24,7 @@ import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.location.LocationServices;
 
 import in.silive.emergency.R;
+import in.silive.emergency.activity.BloodReq;
 import in.silive.emergency.activity.MapsActivity;
 import in.silive.emergency.listeners.AddressResponse;
 import in.silive.emergency.network.LocationAddress;
@@ -165,7 +166,7 @@ public class TypeOfEmergency extends Fragment implements View.OnClickListener, G
                 break;
             case R.id.btblood:
                 intent = new Intent(getContext(),MapsActivity.class);
-                intent.putExtra("type","blood");
+                intent.putExtra("type","hospital");
                 startActivity(intent);
 
         }
