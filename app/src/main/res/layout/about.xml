@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/tbabout"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="?attr/colorPrimary"
+                app:layout_scrollFlags="scroll|enterAlways"
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+
+        </android.support.design.widget.AppBarLayout>
+
+    </android.support.design.widget.CoordinatorLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="#This is an Emergecy App which help you to find nearest hospital, police and pharmacy. "
+        android:id="@+id/tvemergency"
+        android:fontFamily="sans-serif-condensed"
+          android:layout_margin="10dp"
+        android:textColor="#000000" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="#Tap on any Emergency icon to find nearest places . "
+        android:id="@+id/tvicon"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_margin="10dp"
+        android:textColor="#000000"
+         />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="#Tap on Marker to see the place name. "
+        android:id="@+id/tvmarker"
+        android:layout_margin="10dp"
+        android:textColor="#000000"
+         />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="#Tap on Marker name to see the whole information of that place. "
+        android:id="@+id/tvmarkerinformation"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_margin="10dp"
+        android:textColor="#000000"
+         />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="#In case of Emergency press 2 times Volume Up or Volume Down button to directly open app. "
+        android:id="@+id/tvmarkerinfor"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_margin="10dp"
+        android:textColor="#000000"
+        />
+
+
+</LinearLayout>

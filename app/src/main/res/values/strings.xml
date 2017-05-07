@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Emergency</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_select_contacts">Select Contacts</string>
+    <string name="select_contacts_error">Select at least one contact.</string>
+    <string name="title_activity_show_selected_contacts">Selected Contacts</string>
+    <string name="emergency_message">Hello, I am in trouble. Contact me as soon as you can.\n
+                    \n
+                    My Location is \n</string>
+    <string name="title_activity_nav_activity">nav_activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

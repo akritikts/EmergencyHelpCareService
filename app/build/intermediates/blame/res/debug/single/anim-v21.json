@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/akriti/.android/build-cache/a24d57cdee071339d7c3706110dda28e065e228f/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/akriti/.android/build-cache/a24d57cdee071339d7c3706110dda28e065e228f/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/home/akriti/.android/build-cache/a24d57cdee071339d7c3706110dda28e065e228f/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    }
+]

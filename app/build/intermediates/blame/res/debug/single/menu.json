@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/menu/activity_nav_activity_drawer.xml",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/menu/activity_nav_activity_drawer.xml"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/menu/profile_menu.xml",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/menu/profile_menu.xml"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/menu/emergencymenu.xml",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/menu/emergencymenu.xml"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/menu/nav_activity.xml",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/menu/nav_activity.xml"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/menu/map_menu.xml",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/menu/map_menu.xml"
+    }
+]

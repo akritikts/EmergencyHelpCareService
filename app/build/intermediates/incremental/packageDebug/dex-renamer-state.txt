@@ -1,0 +1,7 @@
+#Sun May 07 10:26:02 IST 2017
+base.0=/home/akriti/Downloads/Emergency-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_81ad514f4c56948fcd88d4d9fb64e335a51c4965
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/akriti/Downloads/Emergency-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4ab636d2615f45ae58e79e367da65a1b32a1f5ad/classes.dex
+base.1=/home/akriti/Downloads/Emergency-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4ab636d2615f45ae58e79e367da65a1b32a1f5ad
+file.0=/home/akriti/Downloads/Emergency-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_81ad514f4c56948fcd88d4d9fb64e335a51c4965/classes.dex

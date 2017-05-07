@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "153094771217",
+    "firebase_url": "https://emergency-42fa6.firebaseio.com",
+    "project_id": "emergency-42fa6",
+    "storage_bucket": "emergency-42fa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153094771217:android:44fac40d9ac766ac",
+        "android_client_info": {
+          "package_name": "in.silive.emergency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153094771217-7jutrvto8q8otglfb7t5ucnoqsfchhon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrc2oV_NAZLQRA0TY9nHMOQfGx_0YOAT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

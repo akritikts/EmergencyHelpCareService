@@ -1,0 +1,421 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:2:1-140:12
+	package
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml
+permission#in.silive.emergency.activity.MapsActivity.permission.MAPS_RECEIVE
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:5:5-7:47
+	android:protectionLevel
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:7:9-44
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:6:9-89
+uses-permission#android.permission.INTERNET
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/akriti/.android/build-cache/608f385031c2f573fdf6872e6952edf2c27025d0/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-crash:9.8.0] /home/akriti/.android/build-cache/158992d5c387aba4ab335b047e24449a427ba6c4/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/akriti/.android/build-cache/549521519c7192c71ea15624c991bdaf5e1bf3f4/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:11:5-98
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:11:22-95
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:14:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:16:5-60
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:16:19-57
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:18:5-72
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:18:22-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:19:5-69
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:19:22-66
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:20:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:21:22-75
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:22:22-77
+uses-feature#0x00020000
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:24:5-26:35
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/akriti/.android/build-cache/608f385031c2f573fdf6872e6952edf2c27025d0/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:25:9-41
+	android:required
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:26:9-32
+application
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:28:5-138:19
+MERGED from [com.google.android.gms:play-services-location:10.2.0] /home/akriti/.android/build-cache/5cf08924aeaeece228e113f36604476dba5ce4d2/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/akriti/.android/build-cache/608f385031c2f573fdf6872e6952edf2c27025d0/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/akriti/.android/build-cache/a217a4302b049b62542755807f21788fd8dbe7db/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.android.support:design:24.1.1] /home/akriti/.android/build-cache/a24d57cdee071339d7c3706110dda28e065e228f/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] /home/akriti/.android/build-cache/3d1ad97fbec40d3573e8bcf62b4aacaf5a0fb8e4/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /home/akriti/.android/build-cache/807d01336f282687e8e8e0e05c7d37afbf413845/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /home/akriti/.android/build-cache/874c3d5c1168bd98523a2d50a0ca01a3df304d05/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:cardview-v7:24.0.0] /home/akriti/.android/build-cache/1cd243aecae303cdbe56f97c9620931229e78b49/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash:9.8.0] /home/akriti/.android/build-cache/158992d5c387aba4ab335b047e24449a427ba6c4/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /home/akriti/.android/build-cache/3fbb5fbb4aea7fa603950ba92575bead30dd0d0c/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:10.2.0] /home/akriti/.android/build-cache/ef77269e4c1d22356d460e674efdb615ca9f4689/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/akriti/.android/build-cache/549521519c7192c71ea15624c991bdaf5e1bf3f4/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.2.0] /home/akriti/.android/build-cache/9ce2011e810d1a8d6e0b24317d8f1b435b939b3b/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/akriti/.android/build-cache/af5938106da7c138c30b20bfc1d951e543d374e0/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/akriti/.android/build-cache/c86c2af99997881021e16a5bef6fb6efa843753a/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.1.1] /home/akriti/.android/build-cache/c34bc617a667517fd492d131e1e4349d0e121be8/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:31:9-41
+	android:supportsRtl
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:33:9-35
+	android:allowBackup
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:29:9-35
+	android:icon
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:30:9-38
+	android:largeHeap
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:32:9-33
+	android:theme
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:34:9-47
+activity#in.silive.emergency.activity.MainActivity
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:35:9-43:20
+	android:screenOrientation
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:37:13-53
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:36:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:41:27-74
+activity#in.silive.emergency.activity.EnterPersonalDetail
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:44:9-52:20
+	android:screenOrientation
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:46:13-53
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:45:13-57
+intent-filter#android.intent.category.DEFAULT+in.silive.emergency.ENTERPERSONALDETAIL
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:47:13-51:29
+action#in.silive.emergency.ENTERPERSONALDETAIL
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:48:17-82
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:48:25-79
+category#android.intent.category.DEFAULT
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:50:17-76
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:50:27-73
+activity#in.silive.emergency.activity.Profile
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:53:9-62:20
+	android:screenOrientation
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:56:13-53
+	android:parentActivityName
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:55:13-75
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:54:13-45
+intent-filter#android.intent.category.DEFAULT+in.silive.emergency.PROFILE
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:57:13-61:29
+action#in.silive.emergency.PROFILE
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:58:17-70
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:58:25-67
+activity#in.silive.emergency.activity.FragmentCallingActivity
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:63:9-71:20
+	android:screenOrientation
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:65:13-53
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:64:13-61
+intent-filter#android.intent.category.DEFAULT+in.silive.emergency.FRAGMENTCALLINGACTIVITY
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:66:13-70:29
+action#in.silive.emergency.FRAGMENTCALLINGACTIVITY
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:67:17-86
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:67:25-83
+activity#in.silive.emergency.activity.DeleteContacts
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:72:9-81:20
+	android:screenOrientation
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:75:13-53
+	android:parentActivityName
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:74:13-75
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:73:13-52
+intent-filter#android.intent.category.DEFAULT+in.silive.emergency.DELETECONTACTS
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:76:13-80:29
+action#in.silive.emergency.DELETECONTACTS
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:77:17-77
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:77:25-74
+activity#in.silive.emergency.activity.SelectContacts
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:82:9-91:20
+	android:screenOrientation
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:85:13-53
+	android:parentActivityName
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:84:13-75
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:83:13-52
+intent-filter#android.intent.category.DEFAULT+in.silive.emergency.SELECTCONTACTS
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:86:13-90:29
+action#in.silive.emergency.SELECTCONTACTS
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:87:17-77
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:87:25-74
+activity#in.silive.emergency.activity.ShowSelectedContacts
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:92:9-101:20
+	android:screenOrientation
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:95:13-53
+	android:parentActivityName
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:94:13-66
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:93:13-58
+intent-filter#android.intent.category.DEFAULT+in.silive.emergency.SHOWSELECTEDCONTACTS
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:96:13-100:29
+action#in.silive.emergency.SHOWSELECTEDCONTACTS
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:97:17-83
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:97:25-80
+activity#in.silive.emergency.activity.About
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:103:9-112:20
+	android:screenOrientation
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:106:13-53
+	android:parentActivityName
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:105:13-75
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:104:13-43
+intent-filter#android.intent.category.DEFAULT+in.silive.emergency.ABOUT
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:107:13-111:29
+action#in.silive.emergency.ABOUT
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:108:17-68
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:108:25-65
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:114:9-116:55
+	android:value
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:116:13-52
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:115:13-58
+activity#in.silive.emergency.activity.MapsActivity
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:118:9-122:56
+	android:screenOrientation
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:122:13-53
+	android:label
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:120:13-56
+	android:parentActivityName
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:121:13-75
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:119:13-50
+receiver#in.silive.emergency.receiver.VolumeReceiver
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:124:9-133:20
+	android:process
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:126:13-38
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:125:13-52
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.MEDIA_BUTTON+android.intent.category.HOME
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:127:13-132:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:128:17-77
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:128:25-74
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:129:17-79
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:129:25-76
+category#android.intent.category.HOME
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:131:17-73
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:131:27-70
+service#in.silive.emergency.service.StartAppService
+ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:135:9-60
+	android:name
+		ADDED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml:135:18-57
+uses-sdk
+INJECTED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-location:10.2.0] /home/akriti/.android/build-cache/5cf08924aeaeece228e113f36604476dba5ce4d2/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/akriti/.android/build-cache/608f385031c2f573fdf6872e6952edf2c27025d0/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/akriti/.android/build-cache/a217a4302b049b62542755807f21788fd8dbe7db/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:design:24.1.1] /home/akriti/.android/build-cache/a24d57cdee071339d7c3706110dda28e065e228f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.1.1] /home/akriti/.android/build-cache/0eafe4259eee66ef8445b44b3b8f78ba970d0f6f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.1.1] /home/akriti/.android/build-cache/3d1ad97fbec40d3573e8bcf62b4aacaf5a0fb8e4/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /home/akriti/.android/build-cache/807d01336f282687e8e8e0e05c7d37afbf413845/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /home/akriti/.android/build-cache/874c3d5c1168bd98523a2d50a0ca01a3df304d05/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:cardview-v7:24.0.0] /home/akriti/.android/build-cache/1cd243aecae303cdbe56f97c9620931229e78b49/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-crash:9.8.0] /home/akriti/.android/build-cache/158992d5c387aba4ab335b047e24449a427ba6c4/output/AndroidManifest.xml:20:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] /home/akriti/.android/build-cache/3fbb5fbb4aea7fa603950ba92575bead30dd0d0c/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:10.2.0] /home/akriti/.android/build-cache/ef77269e4c1d22356d460e674efdb615ca9f4689/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/akriti/.android/build-cache/549521519c7192c71ea15624c991bdaf5e1bf3f4/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.0] /home/akriti/.android/build-cache/9ce2011e810d1a8d6e0b24317d8f1b435b939b3b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/akriti/.android/build-cache/af5938106da7c138c30b20bfc1d951e543d374e0/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/akriti/.android/build-cache/c86c2af99997881021e16a5bef6fb6efa843753a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:24.1.1] /home/akriti/.android/build-cache/c34bc617a667517fd492d131e1e4349d0e121be8/output/AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.1.1] /home/akriti/.android/build-cache/3d1ad97fbec40d3573e8bcf62b4aacaf5a0fb8e4/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/akriti/Downloads/Emergency-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.0] /home/akriti/.android/build-cache/608f385031c2f573fdf6872e6952edf2c27025d0/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/akriti/.android/build-cache/549521519c7192c71ea15624c991bdaf5e1bf3f4/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /home/akriti/.android/build-cache/608f385031c2f573fdf6872e6952edf2c27025d0/output/AndroidManifest.xml:19:22-76
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/akriti/.android/build-cache/a217a4302b049b62542755807f21788fd8dbe7db/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/akriti/.android/build-cache/a217a4302b049b62542755807f21788fd8dbe7db/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/akriti/.android/build-cache/a217a4302b049b62542755807f21788fd8dbe7db/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/akriti/.android/build-cache/a217a4302b049b62542755807f21788fd8dbe7db/output/AndroidManifest.xml:19:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/akriti/.android/build-cache/549521519c7192c71ea15624c991bdaf5e1bf3f4/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/akriti/.android/build-cache/549521519c7192c71ea15624c991bdaf5e1bf3f4/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/akriti/.android/build-cache/549521519c7192c71ea15624c991bdaf5e1bf3f4/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/akriti/.android/build-cache/bfebb08f154314314bf704a94abaf75dee871ede/output/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/akriti/.android/build-cache/4588982eda88bb29371d7bb41aa58e570ae28686/output/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.0] /home/akriti/.android/build-cache/9ce2011e810d1a8d6e0b24317d8f1b435b939b3b/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /home/akriti/.android/build-cache/9ce2011e810d1a8d6e0b24317d8f1b435b939b3b/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /home/akriti/.android/build-cache/9ce2011e810d1a8d6e0b24317d8f1b435b939b3b/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /home/akriti/.android/build-cache/9ce2011e810d1a8d6e0b24317d8f1b435b939b3b/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /home/akriti/.android/build-cache/9ce2011e810d1a8d6e0b24317d8f1b435b939b3b/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.0] /home/akriti/.android/build-cache/c86c2af99997881021e16a5bef6fb6efa843753a/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] /home/akriti/.android/build-cache/c86c2af99997881021e16a5bef6fb6efa843753a/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] /home/akriti/.android/build-cache/c86c2af99997881021e16a5bef6fb6efa843753a/output/AndroidManifest.xml:20:20-65

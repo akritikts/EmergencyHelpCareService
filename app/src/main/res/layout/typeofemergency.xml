@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.CardView
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+                android:id="@+id/cardviewlocation"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:visibility="gone"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                card_view:cardElevation="10dp"
+                card_view:cardCornerRadius="10dp"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-condensed"
+                    android:layout_margin="10dp"
+                    android:visibility="gone"
+                    android:id="@+id/tvaddress"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#000000" />
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/cvhospital"
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                card_view:cardElevation="10dp"
+                card_view:cardCornerRadius="10dp"
+                >
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:background="@drawable/hospital"
+                    android:id="@+id/bthospital"
+                    />
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/cvpharmacy"
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                card_view:cardElevation="10dp"
+                card_view:cardCornerRadius="10dp"
+                >
+
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="80dp"
+                    android:padding="10dp"
+                    android:background="@drawable/pharmacy"
+                    android:id="@+id/btpharmacy"
+                    />
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/cvpolice"
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="20dp"
+                android:paddingBottom="40dp"
+                card_view:cardElevation="10dp"
+                card_view:cardCornerRadius="10dp"
+                >
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="80dp"
+                    android:padding="10dp"
+                    android:background="@drawable/police"
+                    android:id="@+id/btpolice"
+                    />
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/cvblood"
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="20dp"
+                android:paddingBottom="40dp"
+                card_view:cardElevation="10dp"
+                card_view:cardCornerRadius="10dp"
+                >
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="80dp"
+                    android:padding="10dp"
+                    android:background="@drawable/police"
+                    android:id="@+id/btblood"
+                    />
+            </android.support.v7.widget.CardView>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

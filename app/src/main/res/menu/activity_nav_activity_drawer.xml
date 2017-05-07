@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/profile"
+            android:title="Profile"
+            android:icon="@drawable/profile"
+            app:showAsAction="ifRoom"
+            >
+        </item>
+        <item android:id="@+id/flashlight"
+            android:icon="@drawable/flashlightoff"
+            app:showAsAction="ifRoom"
+            android:title="Flashlight">
+        </item>
+        <item android:id="@+id/addContacts"
+            android:title="Add Contacts"
+            android:icon="@drawable/addcontact"
+            app:showAsAction="never"
+            >
+        </item>
+        <item android:id="@+id/deleteContacts"
+            android:title="Delete Contacts"
+            android:icon="@drawable/deletecontact"
+            app:showAsAction="never"
+            >
+        </item>
+        <item android:id="@+id/itemAbout"
+            android:title="About"
+            android:icon="@drawable/info"
+            app:showAsAction="never"
+            >
+        </item>
+    </group>
+</menu>

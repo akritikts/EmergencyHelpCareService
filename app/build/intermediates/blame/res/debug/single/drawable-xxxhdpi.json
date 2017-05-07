@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/deletecontact.png",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/drawable-xxxhdpi/deletecontact.png"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/pharmacyicon.png",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/drawable-xxxhdpi/pharmacyicon.png"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/call.png",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/drawable-xxxhdpi/call.png"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/policeicon.png",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/drawable-xxxhdpi/policeicon.png"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/logo.png",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/drawable-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/noimage.png",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/drawable-xxxhdpi/noimage.png"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/edit.png",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/drawable-xxxhdpi/edit.png"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/info.png",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/drawable-xxxhdpi/info.png"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/splash.png",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/drawable-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/delete.png",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/drawable-xxxhdpi/delete.png"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/profile.png",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/drawable-xxxhdpi/profile.png"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/addcontact.png",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/drawable-xxxhdpi/addcontact.png"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/hospitalicon.png",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/drawable-xxxhdpi/hospitalicon.png"
+    },
+    {
+        "merged": "/home/akriti/Downloads/Emergency-master/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/sms.png",
+        "source": "/home/akriti/Downloads/Emergency-master/app/src/main/res/drawable-xxxhdpi/sms.png"
+    }
+]
